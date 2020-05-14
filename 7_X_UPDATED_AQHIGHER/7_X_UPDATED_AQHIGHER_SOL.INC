@@ -10,12 +10,12 @@ EQUIL                                  -- Generated : Petrel
         4478.4       1949.3       4517.5            0       4478.4            0 0 0 0 /
         5442.6       2358.1       5490.6            0       5442.6            0 0 0 0 /
 
-AQUALIST                               -- Generated : Petrel
-  (AQ20)
-  1 /
-  '7000MD)'
-  2 /
-  /
+-- AQUALIST                               -- Generated : Petrel
+--  (AQ20)
+--  1 /
+--  '7000MD)'
+--  2 /
+--  /
 
 AQUCT
   1 5442 1* 1000 0.3 6.06E-6 10000 100 50 2 1* 0.0 /
